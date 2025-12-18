@@ -1,0 +1,3 @@
+qiskit
+jupyterlab
+qiskit [ visualization ]
